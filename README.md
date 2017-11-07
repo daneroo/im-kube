@@ -1,5 +1,6 @@
 # Kubernetes the progressive way
 
+[Slides](https://gitpitch.com/daneroo/im-kube)
 ## Objectives
 
 The objective is to show the value of using Kuernetes (k8s) rather than operating a Kubernetes Cluster.
@@ -17,3 +18,5 @@ The objective is to show the value of using Kuernetes (k8s) rather than operatin
   - prometheus
   - linkerd/istio
 - Cloud platform Agnostic (including local)
+
+## References
